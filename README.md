@@ -4,5 +4,6 @@
 
 ## Contents
 
-- lazygit config
+- lazygit
+- wezterm
 - more...
