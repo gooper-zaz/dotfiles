@@ -6,4 +6,6 @@
 
 - lazygit
 - wezterm
+- poweshell
+- starship
 - more...
